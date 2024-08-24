@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning Webdev and diving deep into ML maths
 - 💞️ I’m looking to collaborate on hackathon!!
 - 📫 How to reach me :
--                     Linkedin - @aanvig
--                     Email - aanvigahoi@gmail.com
+-   Linkedin - @aanvig
+-   Email - aanvigahoi@gmail.com
